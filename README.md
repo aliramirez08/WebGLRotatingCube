@@ -264,4 +264,5 @@ Implementing depth testing and a browser animation loop helped me understand how
 
 Watch the rotating cube demonstration:
 
-[View Rotating Cube Demo](Screenshots/RotatingCubeDemo.mov)
+https://github.com/user-attachments/assets/018e082d-e647-4b67-9aef-2b2810d3d772
+
