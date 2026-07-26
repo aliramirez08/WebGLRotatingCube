@@ -54,7 +54,8 @@ The project creates the cube from vertex, color, and index data. Custom vertex a
 ```text
 WebGLRotatingCube/
 ├── Screenshots/
-│   └── LiveServer.png
+│   ├── LiveServer.png
+│   └── RotatingCubeDemo.mov
 ├── index.html
 ├── cube.js
 ├── README.md
@@ -258,3 +259,9 @@ Implementing depth testing and a browser animation loop helped me understand how
 ### Launching with Live Server
 
 ![Launching with Live Server](Screenshots/LiveServer.png)
+
+## Demo Video
+
+Watch the rotating cube demonstration:
+
+[View Rotating Cube Demo](Screenshots/RotatingCubeDemo.mov)
